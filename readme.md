@@ -8,7 +8,7 @@ docker-compose --version
 ```
 
 ## Ejecución
-Para ejecutar el proyecto sebes ejecutar el siguente comando:
+Para ejecutar el proyecto debes ejecutar el siguente comando:
 
 ```
 docker-compose up
